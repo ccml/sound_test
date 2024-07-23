@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "fishTile_073.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_073.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_075.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_075.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_077.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_077.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_079.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_079.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_081.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_081.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_091.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_091.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_093.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_093.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_095.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_095.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_097.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_097.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_099.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_099.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_100.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_100.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_102.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_102.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_108.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_108.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_109.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_109.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_110.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_110.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_111.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_111.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_112.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_112.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_113.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_113.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_114.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_114.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_115.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_115.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_116.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_116.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_117.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_117.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_118.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_118.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_123.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_123.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_124.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_124.png",
+      "folder": ""
+    },
+    {
+      "name": "fishTile_125.png",
+      "path": "/Users/claudecatonio/Downloads/kenney_fish-pack/PNG/Retina/fishTile_125.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "texture",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 600,
+    "height": 600,
+    "fixedSize": false,
+    "powerOfTwo": true,
+    "padding": 10,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}
